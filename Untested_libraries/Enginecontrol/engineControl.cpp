@@ -1,3 +1,7 @@
+/*
+  engineControl.cpp - Library for giving basic controls to a set of engines.
+  Created by Armian1, December 2, 2015.
+*/
 #include "Arduino.h"
 #include "engineControl.h"
 
